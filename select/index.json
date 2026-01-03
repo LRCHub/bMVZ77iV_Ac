@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ヒカリアレ",
+  "base_artist": "BURNOUT SYNDROMES",
+  "createdAt": "2026-01-03T11:31:39.617655Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒカリアレ",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/01_ヒカリアレ_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヒカリアレ-Moonlight Version-",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/02_ヒカリアレ-Moonlight_Version-_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヒカリアレ",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/03_ヒカリアレ_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヒカリアレ",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/04_ヒカリアレ_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヒカリアレ",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/05_ヒカリアレ_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ヒカリアレ - hikariare",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/06_ヒカリアレ_-_hikariare_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ヒカリアレ-Moonlight Version- - Hikariare (moonlight version)",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/07_ヒカリアレ-Moonlight_Version-_-_Hikariare_(moonlight_version)_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ヒカリアレ [アニメバージョン]",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": false,
+      "path": "select/08_ヒカリアレ_[アニメバージョン]_BURNOUT_SYNDROMES.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒカリアレ",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": false,
+      "path": "select/pl_01_ヒカリアレ_BURNOUT_SYNDROMES.txt"
+    }
+  ]
+}
